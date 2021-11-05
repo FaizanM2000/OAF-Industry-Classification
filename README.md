@@ -43,3 +43,7 @@ This one month long project was incredibly rewarding in terms of how much I lear
 - Experimentation with different models such as K-means, LDA, word embedding and comparing their strengths and weaknesses.
 
 Given that our data set was only 20,000 and more data pre processing could have been done, our model results were not expected to be superbly accurate. However, undertaking the project under such constraints allowed us to think critically on program optimization, and forced us to learn challenging concepts through implementation.  I am look forward to  pursuing more data science projects in the future. 
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/FaizanM2000)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizan-mohiuddin-0282581bb/)
