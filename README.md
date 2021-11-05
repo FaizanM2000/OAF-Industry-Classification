@@ -7,7 +7,7 @@ Here you can find the documentation on the different stages of the project such 
 A preprocessing function was created to clean the company description data first. Several cleaning techniques were used such as: 
 - Regex(clean up email address, phone numbers, emojis, etc)
 - removing stop words
-- lemmatizing(using spacey)
+- lemmatizing(using spacy)
 - stemmer
 
 # VECTORIZING
