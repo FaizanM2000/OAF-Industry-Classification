@@ -31,7 +31,8 @@ Another classification model we implemented was through word embeddings. This mo
 
 ![shoes order](https://user-images.githubusercontent.com/19886626/140466050-4dc7a448-a322-480c-818e-4d4445affc19.png)
 
-Word embedding model gave us results that were a hit or miss, with quite a few hits more than misses. Overall I was satisfied with out results for this model.
+Word embedding model gave us results that were a hit or miss, with quite a few hits more than misses.
+Overall I was satisfied with out results for this model.
 Classified industries ranked:
 ![wordembeddingwordcloud](https://user-images.githubusercontent.com/19886626/140468677-969651c5-3cfb-4592-a10b-9b94384b3c90.png)
 
