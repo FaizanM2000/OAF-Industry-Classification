@@ -17,7 +17,10 @@ After data was cleaned, sentences were fed into TD-IDF to vectorize word to nume
 One of the methods of classification we used was applying Laten Dirichtlet Allocation. By feeding our vectorized descriptions, LDA computed a probability of which industry each of  the descriptions had. More specifically:
 ![readme1](https://user-images.githubusercontent.com/19886626/140465462-40943131-717d-428e-9196-cbb1485cd323.png)
 
-We found that the model gave decent satisfactory results, given the fact that many companies fell into more than one industry. Below is a word cloud depicting the the rankings of the industries predicted by our model:
+We found that the model gave decent satisfactory results, given the fact that many companies fell into more than one industry. 
+
+Below is a word cloud depicting the the rankings of the industries predicted by our model:
+
 ![ldawordcloud](https://user-images.githubusercontent.com/19886626/140468289-ec94fecc-b9fc-4b11-a04a-ad5db92d8f4b.png)
 
 
