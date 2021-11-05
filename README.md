@@ -5,10 +5,10 @@ Here you can find the documentation on the different stages of the project such 
 
 # DATA PREPROCESSING
 A preprocessing function was created to clean the company description data first. Several cleaning techniques were used such as: 
--Regex(clean up email address, phone numbers, emojis, etc)
--removing stop words
--lemmatizing(using spacey)
--stemmer
+- Regex(clean up email address, phone numbers, emojis, etc)
+- removing stop words
+- lemmatizing(using spacey)
+- stemmer
 
 # VECTORIZING
 After data was cleaned, sentences were fed into TD-IDF to vectorize word to numeric data. By using TF-IDF, a statistical measure of each word's uniqueness relative to the rest of the data was found. Essentially, this step allowed the filtering of the most important words.
