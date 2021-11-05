@@ -20,9 +20,7 @@ One of the methods of classification we used was applying Laten Dirichtlet Alloc
 We found that the model gave decent satisfactory results, given the fact that many companies fell into more than one industry. Below is a word cloud depicting the the rankings of the industries predicted by our model:
 ![ldawordcloud](https://user-images.githubusercontent.com/19886626/140468289-ec94fecc-b9fc-4b11-a04a-ad5db92d8f4b.png)
 
-Word embedding model gave us results that were a hit or miss, with quite a few hits more than misses. Overall I was satisfied with out results for this model.
-Classified industries ranked:
-![wordembeddingwordcloud](https://user-images.githubusercontent.com/19886626/140468677-969651c5-3cfb-4592-a10b-9b94384b3c90.png)
+
 
 
 # USING WORD EMBEDDINGS
@@ -30,6 +28,9 @@ Another classification model we implemented was through word embeddings. This mo
 
 ![shoes order](https://user-images.githubusercontent.com/19886626/140466050-4dc7a448-a322-480c-818e-4d4445affc19.png)
 
+Word embedding model gave us results that were a hit or miss, with quite a few hits more than misses. Overall I was satisfied with out results for this model.
+Classified industries ranked:
+![wordembeddingwordcloud](https://user-images.githubusercontent.com/19886626/140468677-969651c5-3cfb-4592-a10b-9b94384b3c90.png)
 
 # CONCLUSION
 This one month long project was incredibly rewarding in terms of how much I learnt topics such as
